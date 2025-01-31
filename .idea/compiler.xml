@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="Gradle_Convention_Plugin.app" target="21" />
+      <module name="Gradle_Convention_Plugin.build-logic.convention" target="21" />
+      <module name="Gradle_Convention_Plugin.feature.bookreader" target="21" />
+      <module name="Gradle_Convention_Plugin.feature.bookstore" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

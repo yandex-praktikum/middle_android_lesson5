@@ -1,4 +1,7 @@
+//enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
 pluginManagement {
+    includeBuild("build-logic")
     repositories {
         google {
             content {
@@ -19,7 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Gradle Convention Plugin"
+rootProject.name = "GradleConventionPlugin"
 include(":app")
 include(":feature:bookstore")
 include(":feature:bookreader")

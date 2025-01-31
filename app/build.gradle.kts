@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "yandex.practicum.gradleconventionplugin"
+    namespace = "yandex.practicum.conventionsample"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "yandex.practicum.gradleconventionplugin"
+        applicationId = "yandex.practicum.conventionsample"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
