@@ -44,4 +44,4 @@ kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "ko
 android-library = { id = "com.android.library", version.ref = "agp" }
 jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
 
-yandex-practicum-android-feature = { id = "yandex.practicum.android.feature", version = "unspecified" }
+conventionsample-android-feature = { id = "conventionsample.android.feature", version = "unspecified" }
